@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat Room</string>
+
+    <string name="tag_Login">Login</string>
+    <string name="tag_hint_email">Email</string>
+    <string name="tag_hint_password">Password</string>
+</resources>
